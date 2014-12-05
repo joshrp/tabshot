@@ -4,7 +4,7 @@ Tab Shot
 Tool for automatically tabbing through a site and taking screenshots along
 the way, resulting in a video.
 
-`node selenium.js http://bbc.co.uk/iplayer 100 50`
+`./run.sh http://bbc.co.uk/iplayer 100 50`
 
 This will tab 100 times taking a screenshot at each step and leave
 out.mp4 in ./screenshots.
